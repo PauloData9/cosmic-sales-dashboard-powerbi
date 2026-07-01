@@ -2,6 +2,18 @@
 
 Business Intelligence Dashboard desenvolvido em Power BI para apoiar a tomada de decisão estratégica de uma empresa fictícia do setor de cosméticos.
 
+**Status**: Concluído
+
+**Tipo de projeto**: Dashboard Analítico
+
+**Empresa**: Opuline (empresa fictícia)
+
+**Segmento**: Cosméticos
+
+**Ferramenta principal**: Power BI
+
+**Objetivo**: Apoiar a tomada de decisão baseada em dados
+
 ---
 
 ## Dashboard de Vendas
