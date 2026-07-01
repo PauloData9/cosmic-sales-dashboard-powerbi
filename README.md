@@ -4,9 +4,9 @@ Business Intelligence Dashboard desenvolvido em Power BI para apoiar a tomada de
 
 ---
 
-## Dashboard
+## Dashboard Vendas
 
-![Dashboard Principal](assets/dashboard-home.png)
+![Dashboard Vendas](assets/dashboard-sales.png)
 
 ---
 
