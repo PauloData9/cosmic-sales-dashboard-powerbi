@@ -134,6 +134,10 @@ docs/
 
 - dashboard.pdf
 
+data/
+
+- opuline-dataset.xlsx
+
 ---
 
 ## Como visualizar
