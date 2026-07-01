@@ -140,7 +140,7 @@ Visão analítica do portfólio de produtos, permitindo comparar faturamento, pr
 
 ## Como visualizar
 
-Para explorar o dashboard de forma interativa, abra o arquivo `dashboard/opuline.pbix` utilizando o Power BI Desktop.
+Para explorar o dashboard de forma interativa, abra o arquivo `dashboard/Opuline.pbix` utilizando o Power BI Desktop.
 
 Caso não possua o Power BI instalado, uma versão estática do dashboard está disponível em `docs/dashboard.pdf`.
 
