@@ -59,49 +59,55 @@ Desenvolver um dashboard interativo que permita:
 
 ## Principais funcionalidades
 
-- KPIs estratégicos
-- Navegação entre páginas
-- Segmentações dinâmicas
-- Parâmetro de campo
-- Tooltips personalizados
-- Gráfico de dispersão
-- Série temporal
-- Previsão
+- Monitoramento de KPIs estratégicos
+- Acompanhamento de metas
+- Análise temporal das vendas
+- Previsão de faturamento
 - Detecção de anomalias
-- Linha de tendência
-- Mapas geográficos
-- Indicadores de metas
-- Linha de referência
-- Drill Down e Drill Up
+- Análise geográfica das vendas
+- Comparação dinâmica entre dimensões de negócio
+- Ranking de produtos
+- Análise da relação entre preço e faturamento
+- Segmentações interativas
 
 ---
 
-## KPIs analisados
+## Indicadores monitorados
 
 - Faturamento
 - Itens vendidos
 - Ship-to-Door (S2D)
-- Meta mensal
-- Receita ao longo do tempo
-- Quantidade de vendas por localidade
-- Faturamento por categoria
-- Faturamento por origem
-- Ranking de produtos
+
+## Principais análises
+
+- Evolução temporal do faturamento
+- Comparação do faturamento entre categorias de produtos
+- Comparação do faturamento por origem dos produtos
+- Distribuição geográfica das vendas
+- Ranking de produtos por faturamento
+- Relação entre preço e faturamento
+- Monitoramento do desempenho em relação às metas
+- Identificação de tendências, previsões e anomalias
 
 ---
 
 ## Principais insights
 
-Entre as análises disponibilizadas pelo dashboard destacam-se:
+## Principais insights
 
-- acompanhamento da evolução do faturamento ao longo do tempo;
-- identificação de tendências de crescimento;
-- detecção de anomalias nas vendas;
-- comparação entre marcas, categorias e origem dos produtos;
-- identificação dos produtos com maior faturamento;
-- análise da relação entre preço e faturamento através de gráfico de dispersão;
-- acompanhamento do desempenho logístico utilizando o indicador Ship-to-Door;
-- visualização da distribuição geográfica das vendas.
+- A categoria de maquiagem apresentou o maior faturamento entre todas as categorias analisadas, consolidando-se como o principal segmento de vendas da empresa.
+
+- O faturamento superou a meta estabelecida para o período analisado, indicando desempenho comercial acima do objetivo definido.
+
+- O indicador **Ship-to-Door (S2D)** registrou média de **6,34 dias**, superando a meta de **8 dias** em **20,72%**, evidenciando maior eficiência no processo logístico.
+
+- A análise temporal identificou uma anomalia em **janeiro de 2022**, caracterizada por uma queda acentuada no faturamento seguida de recuperação, indicando a ocorrência de um evento atípico que impactou as vendas naquele período.
+
+- A projeção baseada no histórico de vendas indica continuidade da tendência de faturamento, permitindo apoiar o planejamento estratégico por meio de previsões acompanhadas de intervalo de confiança.
+
+- A análise da relação entre preço e faturamento evidenciou que produtos com maior preço tendem a concentrar também os maiores faturamentos, indicando uma associação positiva entre essas variáveis.
+
+- A análise por localidade mostrou que a participação de produtos nacionais e internacionais varia entre as cidades, indicando diferenças regionais no comportamento de compra e oportunidades para estratégias comerciais mais direcionadas.
 
 ---
 
